@@ -1,3 +1,5 @@
+//go test -bench=. -benchmem
+
 package main
 
 import "testing"
