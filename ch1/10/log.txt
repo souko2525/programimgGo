@@ -1,0 +1,6 @@
+0.54s    19849  http://yahoo.co.jp
+0.55s elapsed
+0.30s    19849  http://yahoo.co.jp
+0.30s elapsed
+0.43s    19848  http://yahoo.co.jp
+0.43s elapsed
